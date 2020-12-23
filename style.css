@@ -1,0 +1,201 @@
+body {
+    font-family: 'Roboto', sans-serif ;
+    
+    
+}
+header {
+    position: sticky;
+    top: 0;
+    background-color: #007765;
+    height: 84px;
+}
+.container {
+    max-width: 1219px; 
+    margin: 0 auto;
+    
+}
+.logo > img {
+    margin-top: 20px;
+    position: fixed;  
+}
+.vector_1 {
+    margin-left: 50px;
+}
+
+.vector_2 {
+    margin-left: 51px; 
+
+}
+.list_header {
+    float: right;
+}
+ul {
+    margin-top: 29px;
+    margin-right: 54px;
+}
+li {
+    display: inline;
+}
+a {
+    color:#FFFFFF;
+    text-decoration:none;
+    font-weight: 500;
+    font-size: 24px;
+    }
+    
+    a:active {
+    color:#FFFFFF;
+    text-decoration:none
+    }
+    
+    a:visited {
+    color:#FFFFFF;
+    text-decoration:none
+    }
+    
+    a:hover {
+    color:#FFFFFF;
+    text-decoration: underline
+    }
+.text_line {
+    display: inline;
+    
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.maim {
+    margin-bottom: 0;
+}
+.jumbotron > p {
+    padding: 160px 0;
+    background-image: url(background/image.jpg);  
+    background-size: cover;  
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    margin: 0;
+    color: #FFFFFF;
+}
+section {
+    background-color: #EEEEEE;
+    margin: 0;
+}
+h1 {
+    font-weight: 500;
+    margin-top: 0;
+    padding-top: 48px;
+    margin-bottom: 16px;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+
+}
+
+.the_problem_p {
+     margin-left: 55px;
+     margin-right: 55px;
+     font-size: 32px;
+     line-height: 37px;
+      padding-bottom: 92px; 
+}
+.hero {
+    background-image: url(background/image.png);
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.container_2 {
+    box-sizing: border-box;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.hero__message {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #fff;
+}
+.section_2 {
+    background-color: #FFFFFF;
+}
+.ppc {
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 32px;
+    line-height: 37px;
+    padding-bottom: 92px;  
+
+}
+.ppc_logo {
+    float: left;
+    margin-right: 49px;
+}
+figure {
+    display: inline-block;
+    max-width: 200px;
+}
+.team_member {
+    margin: 0 auto;
+}
+figure > img {
+    text-align: center;
+}
+.team-left {
+    margin-left: 132px;
+}
+.team-central {
+    margin-right: 150px;
+    margin-left: 150px;
+} 
+figcaption {
+    text-align: center;
+}
+.name_team {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;     
+}
+.jobs {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+.image_block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.team-left_2 {
+    margin-left: 140px;
+    margin-bottom: 122px;
+}
+.team-central_2 {
+    margin-right: 160px;
+    margin-left: 160px;
+}
+footer {
+    background-color: #333333;
+    margin-top: 0;
+}
+.text_footer {
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 64px;
+    padding-top: 48px;
+    padding-left: 340px;
+    padding-right: 340px;
+}
